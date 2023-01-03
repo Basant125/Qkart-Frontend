@@ -6,8 +6,8 @@ frontend
 2. npm start
 
 backend
-npm install 
-node index.js
+1. npm install
+2. node index.js
 
 Deploy Link
 https://durgashop.netlify.app/
